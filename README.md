@@ -61,7 +61,7 @@ task-cli>> list in_progress
 
 
 ## Project URL
-- https://github.com/cyryl1/Task-Tracker-CLI
+- (https://roadmap.sh/projects/task-tracker)
 
 ## How to Run
 
